@@ -227,4 +227,4 @@ MIT - Feel free to use, modify, and distribute. Attribution appreciated but not 
 
 ## About
 
-Created by [Ken Davis](https://github.com/kendavisdev) at [Lodgepole I/O](https://lodgepole.io) - Workflow design and operational systems consulting.
+Created by [Ken Davis](https://github.com/KenDavisDev) at [Lodgepole I/O](https://lodgepole.io) - Workflow design and operational systems consulting.
