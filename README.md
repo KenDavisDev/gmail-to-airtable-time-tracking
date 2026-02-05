@@ -227,6 +227,6 @@ MIT - Feel free to use, modify, and distribute. Attribution appreciated but not 
 
 ## About
 
-Created by [Ken Thompson](https://github.com/your-username) at [Lodgepole I/O](https://lodgepole.io) - Workflow design and operational systems consulting.
+Created by [Ken Davis](https://github.com/kendavisdev) at [Lodgepole I/O](https://lodgepole.io) - Workflow design and operational systems consulting.
 
 This workflow is based on production use for client time tracking and invoicing. It's been handling hundreds of time entries per month reliably since 2024.
